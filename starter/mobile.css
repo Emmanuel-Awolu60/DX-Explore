@@ -1,0 +1,36 @@
+@media screen and (max-width: 855px) {
+
+   
+    .headersection-text{
+        margin-left: 0;
+        min-width: 100%
+}
+
+.nav-mobile{
+    display: flex;
+}
+
+.headersection-top{
+    display: none;
+}
+
+
+.aboutus-container{
+    justify-content: center;
+   
+}
+
+.aboutus-container-one{
+    width: 90%;
+}
+
+footer {
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-icon-holder{
+    margin-top: 10px;
+}
+    
+}
